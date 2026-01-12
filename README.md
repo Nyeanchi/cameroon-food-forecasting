@@ -27,12 +27,12 @@ cd cameroon-food-forecasting
 pip install -r scripts/requirements.txt
 
 #### 3. Run Analysis Pipeline
-# Open Jupyter Lab
+### Open Jupyter Lab
 bash
 jupyter lab
-# Run notebooks:
-# 1. FootPredictionModel.ipynb
-# 2. Run the codes inorer: 1-4
+ Run notebooks:
+ 1. FootPredictionModel.ipynb
+ 2. Run the codes inorer: 1-4
 
 #### 4. Launch Web App
 bash
