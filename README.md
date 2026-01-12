@@ -72,9 +72,12 @@ Nsaichie Berinyuy Nyeanchi - Data Scientist/Analyst
 MIT License - See LICENSE file for details
 
 #### 🤝 Acknowledgments
-##### World Food Programme for the data
-##### Cameroon Ministry of Agriculture
-##### Open-source ML community
+
+World Food Programme for the data
+
+Cameroon Ministry of Agriculture
+
+Open-source ML community
 
 
 
