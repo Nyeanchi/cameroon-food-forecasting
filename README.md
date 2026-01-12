@@ -23,10 +23,10 @@ A comprehensive machine learning system for forecasting food prices across diffe
 git clone https://github.com/yourusername/cameroon-food-forecasting.git
 cd cameroon-food-forecasting
 
-### 2. Install Dependencies
+#### 2. Install Dependencies
 pip install -r scripts/requirements.txt
 
-### 3. Run Analysis Pipeline
+#### 3. Run Analysis Pipeline
 # Open Jupyter Lab
 bash
 jupyter lab
@@ -34,6 +34,6 @@ jupyter lab
 # 1. FootPredictionModel.ipynb
 # 2. Run the codes inorer: 1-4
 
-### 4. Launch Web App
+#### 4. Launch Web App
 bash
 streamlit run scripts/PredictionApp.py
