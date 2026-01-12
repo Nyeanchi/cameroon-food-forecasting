@@ -37,3 +37,45 @@ jupyter lab
 #### 4. Launch Web App
 bash
 streamlit run scripts/PredictionApp.py
+
+####📁 Project Structure
+
+cameroon-food-forecasting/
+├── notebooks/          # Jupyter notebooks for analysis
+├── scripts/           # Python scripts and app
+├── data/             # Raw and processed data
+├── models/           # Trained ML models
+└── visualizations/   # Generated plots and charts
+
+####📈 Results
+Average Forecast Error: 12.5% SMAPE
+
+Best Performing Model: XGBoost (for most commodities)
+
+Most Predictable: Beans in Extrême-Nord region
+
+Most Volatile: Fresh fish in coastal regions
+
+####🛠️ Technologies Used
+Python: pandas, numpy, matplotlib, seaborn
+
+ML Libraries: scikit-learn, xgboost, catboost, tensorflow
+
+Visualization: Plotly, Streamlit
+
+Deployment: GitHub, Streamlit Cloud
+
+####👥 Contributors
+Nsaichie Berinyuy Nyeanchi - Data Scientist/Analyst
+
+####📄 License
+MIT License - See LICENSE file for details
+
+####🤝 Acknowledgments
+World Food Programme for the data
+Cameroon Ministry of Agriculture
+Open-source ML community
+
+
+
+
