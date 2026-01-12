@@ -22,7 +22,7 @@ A comprehensive machine learning system for forecasting food prices across diffe
 ```bash
 git clone https://github.com/yourusername/cameroon-food-forecasting.git
 cd cameroon-food-forecasting
-
+```
 #### 2. Install Dependencies
 pip install -r scripts/requirements.txt
 
