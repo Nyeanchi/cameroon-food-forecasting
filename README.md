@@ -34,11 +34,11 @@ jupyter lab
  1. FootPredictionModel.ipynb
  2. Run the codes inorer: 1-4
 
-#### 4. Launch Web App
+### 4. Launch Web App
 bash
 streamlit run scripts/PredictionApp.py
 
-#### 📁 Project Structure
+### 📁 Project Structure
 
 cameroon-food-forecasting/
 ├── notebooks/          # Jupyter notebooks for analysis
@@ -47,7 +47,7 @@ cameroon-food-forecasting/
 ├── models/           # Trained ML models
 └── visualizations/   # Generated plots and charts
 
-#### 📈 Results
+### 📈 Results
 Average Forecast Error: 12.5% SMAPE
 
 Best Performing Model: XGBoost (for most commodities)
@@ -56,7 +56,7 @@ Most Predictable: Beans in Extrême-Nord region
 
 Most Volatile: Fresh fish in coastal regions
 
-#### 🛠️ Technologies Used
+### 🛠️ Technologies Used
 Python: pandas, numpy, matplotlib, seaborn
 
 ML Libraries: scikit-learn, xgboost, catboost, tensorflow
@@ -65,10 +65,10 @@ Visualization: Plotly, Streamlit
 
 Deployment: GitHub, Streamlit Cloud
 
-#### 👥 Contributors
+### 👥 Contributors
 Nsaichie Berinyuy Nyeanchi - Data Scientist/Analyst
 
-#### 📄 License
+### 📄 License
 MIT License - See LICENSE file for details
 
 #### 🤝 Acknowledgments
